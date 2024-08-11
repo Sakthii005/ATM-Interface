@@ -1,0 +1,1 @@
+This Java program simulates an ATM system where users can check their balance, deposit funds, and withdraw money. The `Account` class manages the balance and ensures valid transactions. The `ATM` class provides a menu for user interaction, allowing them to perform these actions repeatedly. The program continues running until the user chooses to exit.
